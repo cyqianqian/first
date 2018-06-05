@@ -1,0 +1,32 @@
+body{
+	height: 800px;
+}
+.title_first{
+	box-sizing: border-box;
+	background-color: powderblue;
+	width: 160px;
+	height: 700px;
+	font-size: 32px;
+	font-weight:bold;
+	text-align: center;
+	padding-top: 50px;
+	float: left;
+}
+.info{
+	padding-left: 200px;
+	height: 700px;
+}
+.title{
+	font-size: 24px;
+	font-weight:bold;
+	width:740px;
+	padding:10px 0;
+}
+.basicinfo,.contactway,.ability,.education,.project{
+	width: 740px;
+	font-size: 18px;
+	padding: 10px 0;
+}
+.strong{
+	font-weight: bold;
+}
